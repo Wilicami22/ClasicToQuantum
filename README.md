@@ -20,6 +20,9 @@ Implementación de algoritmos cuánticos, como el algoritmo de Grover y el algor
 ## Contenido del Repositorio
 El repositorio está estructurado de la siguiente manera:
 
-### Código Fuente: Contiene implementaciones en varios lenguajes de programación (Python, MATLAB, etc.) que ilustran el modelado de sistemas clásicos, probabilísticos y cuánticos.
-### Notebooks Jupyter: Notebooks interactivos que proporcionan explicaciones detalladas y ejemplos prácticos del modelado de sistemas en los tres dominios.
-### Recursos Teóricos: Documentos y enlaces a recursos externos que amplían la comprensión de los conceptos detrás del modelado clásico, probabilístico y cuántico.
+### Código Fuente: 
+Contiene implementaciones en varios lenguajes de programación (Python, MATLAB, etc.) que ilustran el modelado de sistemas clásicos, probabilísticos y cuánticos.
+### Notebooks Jupyter: 
+Notebooks interactivos que proporcionan explicaciones detalladas y ejemplos prácticos del modelado de sistemas en los tres dominios.
+### Recursos Teóricos: 
+Documentos y enlaces a recursos externos que amplían la comprensión de los conceptos detrás del modelado clásico, probabilístico y cuántico.
